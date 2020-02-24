@@ -1,3 +1,7 @@
+#include <iostream>
+
+using namespace std;
+
 int main() {
-  printf("%d", 2 + 2)
+  cout << "2 + 2 = 4" << endl;
 }
